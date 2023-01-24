@@ -21,8 +21,6 @@ namespace Task4
             userAge = Console.ReadLine();
 
             Console.WriteLine($"Вас зовут {userName}, Вам {userAge} год, Вы {userZodiacSign} и работаете на {userJob}.");
-
-
         }
     }
 }
